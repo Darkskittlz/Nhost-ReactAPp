@@ -29,7 +29,7 @@ const SignIn = () => {
         <div className={styles['logo-wrapper']}>
           <img src={
             process.env.PUBLIC_URL + 
-            'https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Breezeline_logo.png/220px-Breezeline_logo.png'
+            'https://app.nhost.io/assets/Logo.svg'
           } alt="logo" />
         </div>
 

@@ -64,7 +64,7 @@ const Layout = () => {
       <header className={styles.header}>
         <div className={styles['header-container']}>
           <Link to="/">
-            <img src='https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Breezeline_logo.png/220px-Breezeline_logo.png' alt="logo" />
+            <img src='https://app.nhost.io/assets/Logo.svg' alt="logo" />
           </Link>
 
           <Menu as="div" className={styles.menu}>
